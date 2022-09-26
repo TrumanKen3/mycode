@@ -1,7 +1,7 @@
 # mycode
 Tracking my code
 # mycode (Project Title)
-
+want to learn how to versionb control with git
 One Paragraph of your project description goes here. Describe what you're trying to do.
 What is the purpose of putting up this repo?
 
